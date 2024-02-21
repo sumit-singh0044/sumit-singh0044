@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://codewithsumit.000webhostapp.com/](https://codewithsumit.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [click here](https://sumit-kumar.netlify.app/)
 
 - 💬 Ask me about **React**
 
