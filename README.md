@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [click here](https://sumit-kumar.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **singharya8688@gmail.com**
 
